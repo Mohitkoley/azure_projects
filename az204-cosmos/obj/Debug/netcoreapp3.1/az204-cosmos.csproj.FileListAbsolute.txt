@@ -1,0 +1,4 @@
+C:\az204-cosmos\obj\Debug\netcoreapp3.1\az204-cosmos.csprojAssemblyReference.cache
+C:\az204-cosmos\obj\Debug\netcoreapp3.1\az204-cosmos.AssemblyInfoInputs.cache
+C:\az204-cosmos\obj\Debug\netcoreapp3.1\az204-cosmos.AssemblyInfo.cs
+C:\az204-cosmos\obj\Debug\netcoreapp3.1\az204-cosmos.csproj.CoreCompileInputs.cache

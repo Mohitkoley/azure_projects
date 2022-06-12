@@ -1,0 +1,15 @@
+C:\az204-auth\bin\Debug\netcoreapp3.1\az204-auth.exe
+C:\az204-auth\bin\Debug\netcoreapp3.1\az204-auth.deps.json
+C:\az204-auth\bin\Debug\netcoreapp3.1\az204-auth.runtimeconfig.json
+C:\az204-auth\bin\Debug\netcoreapp3.1\az204-auth.runtimeconfig.dev.json
+C:\az204-auth\bin\Debug\netcoreapp3.1\az204-auth.dll
+C:\az204-auth\bin\Debug\netcoreapp3.1\az204-auth.pdb
+C:\az204-auth\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\az204-auth\obj\Debug\netcoreapp3.1\az204-auth.csprojAssemblyReference.cache
+C:\az204-auth\obj\Debug\netcoreapp3.1\az204-auth.AssemblyInfoInputs.cache
+C:\az204-auth\obj\Debug\netcoreapp3.1\az204-auth.AssemblyInfo.cs
+C:\az204-auth\obj\Debug\netcoreapp3.1\az204-auth.csproj.CoreCompileInputs.cache
+C:\az204-auth\obj\Debug\netcoreapp3.1\az204-auth.csproj.CopyComplete
+C:\az204-auth\obj\Debug\netcoreapp3.1\az204-auth.dll
+C:\az204-auth\obj\Debug\netcoreapp3.1\az204-auth.pdb
+C:\az204-auth\obj\Debug\netcoreapp3.1\az204-auth.genruntimeconfig.cache
